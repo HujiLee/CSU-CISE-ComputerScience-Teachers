@@ -1,0 +1,81 @@
+>>>name
+李洪东
+------
+>>>departmen
+8
+------
+>>>sex
+男
+------
+>>>position
+其他
+------
+>>>birthday
+1983-10-21
+------
+>>>email
+hongdong@csu.edu.cn
+------
+>>>brief
+李洪东，男，1983年10月生，中南大学信息科学与工程学院讲师。本科(制药工程)与博士（分析化学）分别于2007和2012年毕业于中南大学化学化工学院。2010年到芬兰Oulu大学合作研究。2012年8月加入密歇根大学，安娜堡(University of Michigan, Ann Arbor)医学院从事计算生物学博士后研究至2015年5月, 随后以Research Scientist职位加入系统生物学研究所(Institute for Systems Biology), 从事系统生物学/蛋白组学研究。目前，在Trends in Genetics,Brief Bioinform, PLOS Comput Biol, Transactions on Computational Biology and Bioinformatics, J. Proteome Res, Proteomics, Sci Rep,  Nat. Commu (co-author), Chemom. Intell. Lab. Syst. 等杂志上发表SCI文章50余篇，据Google Scholar, 总引用1700余次，单篇最高引用次数330 (<font color='#0000FF'>ESI前1%高引论文</font>), H指数21；合著英文专著一本(CRC Press, USA出版)；撰写二个章节。2014年获人类蛋白组世界大会(Spain) Young Investigator Award(青年研究者奖)；参与四项国家自然科学基金。
+------
+>>>photo
+/SISE/Web/TAB_TeacherInfo/UpLoadFiles/20170318135408216101.jpg
+------
+>>>researchfield
+生物信息学，可变剪接子(alternatively spliced isoforms)水平的基因功能和网络预测，蛋白质组学，系统生物学
+------
+>>>reward
+1.	Young Investigator Award(青年研究者奖)，人类蛋白组世界大会(Human Proteome World Congress)，Spain,  2014
+2.	中南大学优秀研究生，2011
+3.	中南大学比亚迪奖学金，2011
+4.	青年优秀论文奖，第26届中国化学年会，2008
+
+------
+>>>remarkablePaper
+<b>期刊论文</b>
+1.	Solveig Sieberts, Fan Zhu, Javier García-García, Eli Stahl, Abhishek Pratap, Gaurav Pandey, Dimitrios Pappas, Daniel Aguilar, Bernat Anton, Jaume Bonet, Ridvan Eksi, Oriol Fornés, Emre Guney, <b>Hong-Dong Li</b>, …, Yuanfang Guan, and Lara Mangravite, Crowdsourced assessment of genetic contribution to predicting anti4TNF treatment response in rheumatoid arthritis, Nat Commun, 2016, accepted.
+2.	<b>Hong-Dong Li</b>, Rajasree Menon, Gilbert S. Omenn, Yuanfang Guan, The Emerging Era of Genomic Data Integration for Analyzing Splice Isoform Functions, Trends in Genetics, 30(2014) 340-347, 该杂志最热门下载文章 (11/2/2014)(IF:11.58, citation: 18)
+3.	<b>Hong-Dong Li</b>, Rajasree Menon, Ridvan Eksi, Yang Zhang, Gilbert S. Omenn, and Yuanfang Guan. A network of splice isoforms for the mouse. Sci Rep 6(2015)24507
+4.	<b>Hong-Dong Li</b>, Gilbert S. Omenn, Yuanfang Guan. A proteogenomic approach to understand splice isoform functions through structure and expression-based computational approaches, Briefings in Bioinformatics, 2016, bbv109
+5.	<b>Hong-Dong Li</b>, Rajasree Menon, Brandon Govindarajoo, Bharat Panwar, Yang Zhang, Gilbert S. Omenn, and Yuanfang Guan. Functional Networks of Highest-Connected Splice Isoforms: From the Chromosome 17 Human Proteome Project. J Proteome Res 14(2015), 3484-91
+6.	<b>Hong-Dong Li</b>, Gilbert S. Omenn, and Yuanfang Guan. Misomine: A Genome-Scale High-Resolution Data Portal of Expression, Function and Networks at the Splice Isoform Level in the Mouse. Database 2015 (2015) 
+7.	<b>Hong-Dong Li</b>, Rajasree Menon, Gilbert S. Omenn, Yuanfang Guan. Revisiting the Identification of Canonical Splice Isoforms through Integration of Functional Genomics and Proteomics Evidence, Proteomics, 2014, 14, 2709-2718 
+8.	Qianyi Ma, Ayse Bilge Ozel, Shweta Ramdas, Beth McGee, Rami Khoriaty, David Siemieniak, <b>Hong-Dong Li</b>, Yuanfang Guan, Lawrence C. Brody, James L. Mills, Anne M. Molloy, David Ginsburg, Jun Z. Li, Karl C. Desch. Genetic variants in PLG, LPA and SIGLEC 14 as well as smoking contribute to plasma plasminogen levels. Blood, 124(2014), 3155-3164 
+9.	Ridvan Eksi*, <b>Hong-Dong Li</b>* (co-first), Rajasree Menon, Yuchen Wen, Gilbert S. Omenn, Yuanfang Guan. (2013) Systematically Differentiating Functions for Alternatively Spliced Isoforms through Integrating RNA-seq data. Plos Computational Biology 9: e1003314 (citation:22) 
+10.	Bharat Panwar, Rajasree Menon, Ridvan Eksi, <b>Hong-Dong Li</b>, Gilbert S. Omenn, and Yuanfang Guan Genome-wide Functional Annotation of Human Protein-coding Splice Variants Using Multiple Instance Learning, J Proteome Res, 15(2016)1747?1753 
+11.	Fan Zhu, Lihong Shi, <b>Hong-Dong Li</b>, Ridvan Eksi, James Douglas Engel, Yuanfang Guan, Modeling Dynamic Functional Relationship Networks and Application to Ex Vivo Human Erythroid Differentiation, Bioinformatics, 2014, 30, 3325-3333 
+12.	<b>Hong-Dong Li</b>, Yi-Zeng Liang, Qing-Song Xu. Support vector machines and its applications in chemistry. Chemometrics and Intelligent Laboratory Systems 95 (2009) 188-198 (扩展为英文专著, and the Top 2 最热点击文章 for Chemometrics and Intelligent Laboratory Systems for the last quarter of available data (January-March 2009), among articles published since 2009) (citation:242)
+13.	<b>Hong-Dong Li</b>, Yi-Zeng Liang, Qing-Song Xu, Dong-Sheng Cao, Key wavelengths screening using competitive adaptive reweighted sampling method for multivariate calibration, Analytica Chimica Acta 648(2009)77-84(citation:261；<font color='#0000FF'>入选ESI前1%高引论文</font>).
+14.	Ramalingam Bethunaickan, Celine C. Berthier, Weijia Zhang, Ridvan Eksi, <b>Hong-Dong Li</b>, Yuanfang Guan, Matthias Kretzler, Anne Davidson, Identification of stage specific genes associated with lupus nephritis and response to remission induction in NZB/W and NZM2410 mice, Arthritis&Rheumatism, 66(2014) 2246-58 (citation:2)
+15.	<b>Hong-Dong Li</b>, Yi-Zeng Liang, Xu-Xia Long, Yong-Huan Yun, Qing-Song Xu, The continuity of sample complexity and its relationship to multivariate calibration: A general perspective on first-order calibration of spectral data in analytical chemistry, Chemometrics and Intelligent Laboratory Systems 122 (2013) 23?30(citation:2)
+16.	<b>Hong-Dong Li</b>, Yi-Zeng Liang, Qing-Song Xu, Dong-Sheng Cao, Model population analysis and its applications in chemical and biological modeling, Trends in Analytical Chemistry, 38 (2012)154-162 (citation:20) 
+17.	<b>Hong-Dong Li</b>, Qing-Song Xu and Yi-Zeng Liang, Random Frog: an efficient reversible jump Markov Chain Monte Carlo-like approach for gene selection and disease classification, Analytica Chimca Acta, 740 (2012)20-26 (citation:28）
+18.	<b>Hong-Dong Li</b>, Qing-Song Xu, Wano Zhang and Yi-Zeng Liang, Variable Complementary Network: a novel approach for identifying biomarkers and their mutual associations, Metabolomics, 8(2012)1218-1226 
+19.	<b>Hong-Dong Li</b>, Yi-Zeng Liang, Qing-Song Xu, Bin-Bin Tan, Bai-Chuan Deng, Chen-Chen Lin, Recipe for uncovering predictive genes using support vector machines based on model population analysis, IEEE/ACM Transactions on Computational Biology and Bioinformatics, 8(2011) 1633-1641 (citation:31)
+20.	<b>Hong-Dong Li</b>, Mao-Mao Zeng, Bin-Bin Tan, Yi-Zeng Liang, Qing-Song Xu, Dong-Sheng Cao, Recipe for revealing informative metabolites based on model population analysis, Metabolomics, 2010, 6(3) 353-361(citation:33)
+21.	<b>Hong-Dong Li</b>, Yi-Zeng Liang, Qing-Song Xu, Dong-Sheng Cao, Model population analysis for variable selection, Journal of chemometrics, 2010, 24(7-8)418-423 (citation:50)
+22.	<b>Hong-Dong Li</b>, Yi-Zeng Liang, Qing-Song Xu, Uncover the path from PCR to PLS via elastic component regression, Chemometrics and Intelligent Laboratory Systems, 2010, 104(2)341-346 (citation:8) 
+
+<b>书籍/章节</b>
+1.	Yi-Zeng Liang, Qing-Song Xu, <b>Hong-Dong Li</b> and Dong-Sheng Cao, Support Vector Machines and their application in chemistry and biotechnology, CRC Press, ISBN 978-1-4398-2128-2, 2011（共8章，本人撰写5章）.
+2.	<b> Hong-Dong Li</b> , Yi-Zeng Liang and Qing-Song Xu, Statistical model comparison via model population analysis, for the book Chemometrics in Practical Applications, Edited by Kurt Varmuza, inTech press, ISBN 978-953-308-66-6, 2012 
+3.	<b> Hong-Dong Li</b> , Yang Zhang, Yuanfang Guan, Rajasree Menon, Gilbert S. Omenn, Annotation of Alternatively Spliced Proteins and Transcripts with Protein-Folding Algorithms and Isoform-level Functional Networks, for the book Methods in Molecular Biology, in press, 2016
+
+------
+>>>unfinishedProject
+主持：
+1.     国家自然科学青年基金：内含子保留的多组学数据整合分析方法研究, 21万
+2.     中南大学科研启动基金：面向疾病标志物发现的多组学数据分析方法研究(502041004), 80万
+3.     湖南省研究生创新项目：变量选择及模型评价新方法研究及生物数据分析系统构建 , 2010.9-2012.5
+
+参与：
+1.	国家自然科学基金: 20875104, 蛋白质组学中LC-MS/MS数据的统计分析的新型算法研究, 2009.1-2011.12,已结题
+2.	国家自然科学基金: 21075138, 基于模型集群分析技术的变量选择与模型评价新方法研究, 2011.1-2013.12,已结题
+3.	国家自然科学基金: 21275164, 化学建模中若干重要问题的基础研究, 2013.1-2016.12,已结题
+4.	国家自然科学基金: 21175157, 基于血清多肽组学和代谢组学的肿瘤早期标志物的发现及诊断模型的构建, 2012.1-2015.12,已结题
+
+------
+>>>teachWork
+暂无
+------

@@ -1,0 +1,96 @@
+>>>name
+李敏
+------
+>>>departmen
+8
+------
+>>>sex
+女
+------
+>>>position
+党支部书记
+------
+>>>birthday
+1978-04-06
+------
+>>>email
+limin@mail.csu.edu.cn
+------
+>>>brief
+教育经历：
+ 2004/09?2008/12，中南大学，计算机应用技术，博士，导师：陈建二
+ 2001/09?2004/06，中南大学，交通运输工程及控制，硕士，导师：费耀平
+ 1997/09?2001/06，中南大学，通信工程，学士
+工作经历：
+2015/09-至今，中南大学，信息科学与工程学院，教授
+2010/09-2015/08，中南大学，信息科学与工程学院，副教授
+2008/09-2010/08，中南大学，信息科学与工程学院，讲师
+
+
+
+------
+>>>photo
+/SISE/Web/TAB_TeacherInfo/UpLoadFiles/20170318100035204104.jpg
+------
+>>>researchfield
+生物信息学；医疗大数据分析；复杂网络分析
+------
+>>>reward
+1. 国家自然科学基金优秀青年基金获得者，2016年。
+2. 湖南省优秀硕士学位论文指导教师，2016年/2015年。
+3. 茅以升专项奖科研奖，2014年。
+4. 面向生物特征的数据处理理论与方法，教育部高等学校科学研究优秀成果奖(自然科学奖)二等奖，2013年。（排名第2）
+5. Curriculum Initiative on Parallel and Distributed Computing, EarlyAdopter Award，NSF/IEEE TCPP，2012年。
+6. 2012年入选教育部新世纪优秀人才。
+7. 2011被确定为湖南省骨干青年教师培养对象。
+8. 湖南省科技进步二等奖“广域网加速关键技术研究及应用”，2011年（排名第6）。
+9. 2009年全国计算机教育优秀论文评比活动中荣获一等奖。
+------
+>>>completeProject
+参与完成：
+
+1.国家自然科学基金重点项目:生物信息学中的相关组合理论和算法研究（60433020）
+
+2.国家973前期研究专项：信息处理中参数计算算法研究与实现（2008CB317107）
+------
+>>>remarkablePaper
+(1) Min Li, Peng Ni, Xiaopei Chen, Jianxin Wang, Yi Pan, Construction of refined protein interaction network for predicting essential proteins, IEEE/ACM Transactions on Computational Biology and Bioinformatics, DOI. 10.1109/TCBB.2017.2665482, 2017. 
+(2) Min Li, Zhongxiang Liao, Yiming He, Jianxin Wang*, Junwei Luo, Yi Pan, ISEA: iterative seed-extension algorithm for de novo assembly using paired-end information and insert size distribution, IEEE/ACM Transactions on Computational Biology and Bioinformatics,DOI.10.1109/TCBB.2016.2550433,2016.
+(3) Min Li, Yu Tang, Xuehong Wu, Jianxin Wang*, Fang-Xiang Wu, Yi Pan, C-DEVA: detection, evaluation, visualization and annotation of clusters from biological networks, Biosystems, 2016,150:78-86.
+(4) Min Li, Ruiqing Zheng, Qi Li, Jianxin Wang, Fang-Xiang Wu, Zhuohua Zhang. Prioritizing Disease Genes by Using Search Engine Algorithm. Current Bioinformatics, 2016, 11(2): 195-202. 
+(5) Min Li, Zhibei Niu, Xiaopei Chen, Ping Zhong*, Fang-Xiang Wu, Yi Pan, A reliable neighbor-based method for identifying essential proteins by integrating gene expressions, orthology, and subcellular localization information, TSINGHUA SCIENCE AND TECHNOLOGY, 2016, 12(6): 668-677. 
+(6) Min Li，Yu Lu，Jianxin Wang*，Fang-Xiang Wu，Yi Pan，A topology potential-based method for identifying essential proteinsfrom PPI networks，IEEE/ACM Transactions on Computational Biology and Bioinformatics，2015，12（2）：372-383.
+(7) Min Li, Yu Lu, Zhibei Niu, Fang-Xiang Wu, United complex centrality for identification of essential proteins from PPI networks, IEEE/ACM Transactions on Computational Biology and Bioinformatics,DOI.10.1109/TCBB.2015.2394487,2015.
+(8) Min Li，Ruiqing Zheng，Hanhui Zhang，Jianxin Wang，Yi Pan*，Effective identification of essential proteins based on priori knowledge, network topology and gene expression，Methods，2014，16（2）：325-333.
+(9) Min Li, Weijie Chen, Jianxin Wang, Fang-Xiang Wu, Yi Pan. Identifying dynamic protein complexes based on gene expression profiles and PPI Networks. BioMed Research Internationa, 2014, 2014( 2014) :1-10. 
+(10) Min Li, Jiayi Zhang, Qing Liu, Jianxin Wang*, Fang-Xiang Wu, Prediction of disease-related genes based on weighted tissue-specific network by using DNA methylation, BMC Medical Genomics, 2014, 7(Suppl 2):S4.
+(11) Min Li, Qi Li, Gamage Upeksha Ganegoda, Jianxin Wang*, Fang-Xiang Wu, Yi Pan, Prioritization of orphan disease-causing genes using topological feature and GO similarity between proteins in interaction networks, SCIENCE CHINA Life Sciences. Sci China Life Sci, 2014, 57:1064?1071. 
+(12) Min Li，Xuehong Wu，Yi Pan，Jianxin Wang*，hF-measure: A new measurement for evaluating clusters from protein interaction networks，PROTEOMICS，2013，13（2）：291-300.
+(13) Min Li, Jianxin Wang, Huan Wang, Yi Pan, Identification of Essential Proteins from Weighted Protein Interaction Networks, Journal of Bioinformatics and Computational Biology,2013,7:1-12.
+(14) Min Li*, Xuehong Wu，Jianxin Wang*，Yi Pan*，Towards the identification of protein Complexes and Functional Modules from Dynamic Protein-protein Interaction Networks，BMC Bioinformatics，2012，13（109）.
+(15) Min Li, Hanhui Zhang, Jianxin Wang*, Yi Pan*, A new essential protein discovery method based on the integration of protein-protein interaction and gene expression data, BMC Systems Biology, 2012, 6:15.
+
+
+
+------
+>>>unfinishedProject
+1.国家自然科学基金优秀青年项目,61622213,生物信息学，2017/01-2019/12,130万，在研，主持。
+2.国家自然科学基金海外及港澳学者合作研究基金, 61428209,基于网络控制的复杂疾病药物标靶识别研究，2015/01?2016/12, 20万,已结题，中方合作者。
+3.国家自然科学基金面上项目，61370024，基于网络水平的关键蛋白质预测方法及应用研究，2014/01?2017/12，81万元，在研，主持。
+4.教育部“新世纪优秀人才支持计划”，NCET-12-0547，2012年。
+5.国家自然科学基金（青年基金项目），61003124，面向动态蛋白质网络的功能模块挖掘方法及其应用研究，2011/01?2013/12，22万元，已结题，主持。
+6.湖南省普通高校青年骨干教师培养对象，2011年。
+
+------
+>>>teachWork
+主讲课程（研究生）： 
+? 高等计算机算法  
+? 生物信息学
+? 文献阅读与选题
+主讲课程（本科生）： 
+? 算法分析与设计 
+? 生物信息学 
+? 数字通信原理 
+? 计算机网络 
+? 网络工程
+------

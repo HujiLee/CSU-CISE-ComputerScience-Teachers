@@ -1,0 +1,55 @@
+>>>name
+刘安丰
+------
+>>>departmen
+8
+------
+>>>sex
+男
+------
+>>>position
+系副主任
+------
+>>>birthday
+1971-10-08
+------
+>>>email
+afengliu@mail.csu.edu.cn
+------
+>>>brief
+刘安丰，博士，教授，博士生导师。从事群体感知网络，无线传感器网络。主持和参加包括国家自然科学基金、国家“973”课题、国家“863”军工课题、教育部重点项目、教育部高等学校博士点专项基金等纵横向科研项目多项。在国内外有影响的刊物与国际会议（如TVT、CN、IS、JPDC、CC、JWIN、计算机学报、软件学报、通信学报、计算机研究与发展）上发表与群体感知，无线传感器网络相关的研究文章100余篇，其中EI、SCI、ISTP收录50余篇，获省、部级科技成果奖2项。主编、副主编(译)教材4部。2011年2月至2012年2月，在加拿大滑铁卢大学(University of Waterloo) 宽带通信研究所(Broadband Communications Research,BBCR)进行访问研究。
+------
+>>>photo
+/SISE/Web/TAB_TeacherInfo/UpLoadFiles/2009091608441875.jpg
+------
+>>>researchfield
+无线传感器网络；, 群体感知网络，无线移动网络。,
+------
+>>>reward
+[1].西南铝优秀教师奖，2010年；
+[2].分布式设备管理系统，中国有色金属行业协会（部级）科技进步二等奖，2006年；
+[3].三层客户/服务计算模型与应用研究，湖南省科技进步3等奖（3/7），2004年。
+------
+>>>completeProject
+主持完成：
+[1]国家自然科学基金(面上项目)：61073104.&nbsp;无线传感器网络能量空洞避免理论与策略研究
+[2]中国博士后科学基金特别资助批准号：201104764，能量空洞避免中基于网络质量感知的节点部署研究
+[3]高等学校博士学科点专项科研基金：20090162120074.&nbsp;无线传感器网络能量空洞避免的机制与理论研究&nbsp;
+[4]湖南省自然科学基金：09JJ6095：无线传感器网络能量空洞避免策略研究&nbsp;
+[5]湖南省科技计划项目：2008FJ3213：无线传感器网络生存技术研究
+参与完成：
+&nbsp;国家自然科学基金2项，国家863项目1项。
+------
+>>>remarkablePaper
+[1]Deployment Guidelines for Achieving Maximal Lifetime and Avoiding Energy Holes in Sensor Network[J], Information Sciences, 2013, 230:197?226(SCI&EI).
+[2]An elaborate chronological and spatial analysis of energy hole for wireless sensor networks[J],Computer Standards & Interfaces, 2013,35(1):132?149(SCI&EI) 
+[3]Cross Layer Optimal Design with Guaranteed Reliability under Rayleigh block fading channels[J}. KSII Transactions on Internet and Information Systems, 2013, 7(12):3071-3095(SCI&EI).
+
+------
+>>>unfinishedProject
+目前主持的主要纵向课题有:
+[1]国家自然科学基金(面上项目)，批准号：61379110. 无线传感器网络中抵御洞攻击的机制与方法研究, 2014-01-01?2017-12-31
+参与课题:
+[2]国家重点基础研究发展计划(973计划), 批准号：2014CB046305, 课题名称：煤岩性状识别与采掘状态感知原理及实现(第5课题)， 2014-01-01?2018-08-31
+
+------

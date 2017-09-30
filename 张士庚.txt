@@ -1,0 +1,80 @@
+>>>name
+张士庚
+------
+>>>departmen
+8
+------
+>>>sex
+男
+------
+>>>position
+其他
+------
+>>>birthday
+1981-12-14
+------
+>>>email
+zhangshigeng@gmail.com
+------
+>>>brief
+张士庚，副教授，工学博士，硕士生导师，中南大学531计划第三层次人才。2004年于南京大学计算机系获学士学位，2010年于南京大学计算机系获博士学位，2010年7月进入中南大学信息科学与工程学院工作。多次在香港理工大学、香港浸会大学等高校进行访问研究。目前担任中国计算机学会(CCF)会员，IEEE会员，中国计算机学会物联网专委会委员。
+
+研究兴趣包括物联网、云计算、移动计算、物联网安全、无线射频(RFID)系统、无线网络定位等。主持科研项目7项，包括国家自然科学基金青年项目、湖南省自然科学基金、博士后科学基金特别资助和面上项目、计算机软件新技术国家重点实验室（南京大学）开放课题等，参与国家自然科学基金青年/面上项目三项。在国内外权威期刊和会议上发表论文50余篇，其中SCI收录20余篇，EI收录40余篇，包括国际权威期刊IEEE Transactions on Mobile Computing，IEEE Transactions on Parallel and Distributed Systems, IEEE Journal on Selected Areas in Communications，IEEE Transactions on Computers, ACM Transactioins on Sensor Networks和国际顶级会议Infocom，ICNP，IWQoS，SECON,MASS，ICAPDS,ICC，WCNC，Globecom等。据谷歌学术显示，总引用次数已经超过730次，H-index为15。申请发明专利5项，已授权两项。担任多个国际知名会议的程序委员会委员，包括ICPADS'16, ISPA'16, MASS'14等。担任多个国内外权威期刊的评审人，包括IEEE/ACM ToN IEEE JSAC,IEEE TMC/TPDS/TC,ACM TOSN和计算机学报/通信学报等。
+------
+>>>photo
+/SISE/Web/TAB_TeacherInfo/UpLoadFiles/20170227213425210115.jpg
+------
+>>>researchfield
+[1]   物联网相关协议、算法和应用研究，主要包括智能物联网应用研究，基于RFID、蓝牙和智能移动终端的新型物联网应用研究开发与实现。, [2]   大规模无线射频识别(RFID)系统，主要研究大规模无线射频识别系统中的标签动态监测和基于RFID的定位和活动识别技术。, [3]   物联网安全和边缘计算，关注物联网设备的攻击检测和追踪，以及如何利用新型计算模型如边缘计算来提高物联网的安全, [4]   无线网络定位和室内定位，研究各种无线室内定位算法和系统实现，包括无线传感器网络定位，基于WIFI的室内定位以及基于RFID的室内定位系统, [5]   无设备感知，主要研究基于Wi-Fi信号和RFID的无设备被动式感知，包括体感感知，活动感知，目标定位以及移动性感知等。
+------
+>>>remarkablePaper
+[1].	Shigeng Zhang, Xuan Liu, Jianxin Wang, Jiannong Cao. Tag Size Profiling in Multiple Reader RFID Systems. Accepted to appear in IEEE International Conference on Computer Communications (Infocom), 2017. (CCF A类，第一作者)
+[2].	Xuan Liu, Shigeng Zhang*, Bin Xiao, Kai Bu. Flexible and Time Efficient Tag Scanning with Handheld Readers, IEEE Transactions on Mobile Computing (TMC), 15(4), pp.840-852, 2016. (CCF A类，通信作者)
+[3].	Shigeng Zhang, Xuan liu, Jianxin Wang, Jiannong Cao, Geyong Min. Accurate Range-Free Localization for Anisotropic Wireless Sensor Networks. ACM Transactions on Sensor Networks (TOSN), 11(3), pp. 51:1-28, 2015. (CCF B类，第一作者)
+[4].	Shigeng Zhang, Xuan Liu, Jianxin Wang, Jiannong Cao, Geyong Min. Energy-efficient active tag searching in large scale RFID systems. Information Sciences (INS), 317: 143-156, 2015. (CCF B类，第一作者)
+[5].	Xuan Liu, Bin Xiao, Shigeng Zhang*, Kai Bu, Unknown Tag Identification in Large RFID Systems:An Efficient and Complete Solution. IEEE Transactions on Parallel and Distributed Systems (TPDS), 2015, 26(6): 1775-1788.  (CCF A类，通信作者)
+[6].	Shigeng Zhang, Jianxin Wang, Xuan Liu, Jiannong Cao: Range-free selective multilateration for anisotropic wireless sensor networks. SECON 2012: 299-307. (CCF B类，第一作者)
+[7].	Shigeng Zhang, Jiannong Cao, Lijun Chen, Daoxu Chen: Accurate and Energy-Efficient Range-Free Localization for Mobile Sensor Networks. IEEE Transactions on Mobile Computing (TMC), 9(6): 897-910 (2010). (CCF A类，第一作者)
+[8].	Yingpei Zeng, Jiannong Cao, Shigeng Zhang*, Shanqing Guo, Li Xie: Random-walk based approach to detect clone attacks in wireless sensor networks. IEEE Journal on Selected Areas in Communications (JSAC) 28(5): 677-691 (2010) (CCF A类，通信作者)
+[9].	Xuan Liu, Bin Xiao, Feng Zhu and Shigeng Zhang. Let’s Work Together: Fast Tag Identification by Interference Elimination for Multiple RFID Readers. Accepted to appear in Proc. of the 24th IEEE International Conference on Network Protocols (ICNP), 2016, pp. 1-10. (CCF B类)
+[10].	Xuan Liu, Bin Xiao, Shigeng Zhang, Kai Bu, Alvin Chan: STEP: A Time-Efficient Tag Searching Protocol in Large RFID Systems. IEEE Transactions on Computers (TC) 64(11): 3265-3277 (2015). (CCF A类)
+[11].	Zhuofan Liao, Jianxin Wang, Shigeng Zhang, Jiannong Cao, Geyong Min: Minimizing Movement for Target Coverage and Network Connectivity in Mobile Sensor Networks. IEEE Transactions on Parallel and Distributed Systems (TPDS). 26(7): 1971-1983 (2015) (CCF A类)
+[12].	Xuan Liu, Shigeng Zhang*, Kai Bu, A locality-based range-free localization algorithm for anisotropic wireless sensor networks, Telecommunication Systems, 2016, 62(1): 3-13. (通信作者)
+[13].	Shigeng Zhang, Shuping Yan, Weitao Hu, Jianxin Wang, Kehua Guo, A Component-Based Localization Algorithm for Sparse Sensor Networks Combining Angle and Distance Information. KSII Transactions on Internet and Information Systems (TIIS), 2015, 9(3): 1014-1034. (第一作者)
+[14].	Zhixiong Liu, Jianxin Wang, Shigeng Zhang, Huafu Liu, Xi Zhang: A Cluster-Based False Data Filtering Scheme in Wireless Sensor Networks. Ad Hoc & Sensor Wireless Networks 23(1-2): 21-45 (2014) (通信作者)
+[15].	Yalong Xiao, Jianxin Wang, Shigeng Zhang, Jiannong Cao: An energy-preserving spectrum access strategy in mobile cognitive radio networks. Trans. Emerging Telecommunications Technologies (ETT) 25(8): 865-874 (2014) (通信作者)
+[16].	Guangliang Liu, Shigeng Zhang*, Jianxin Wang, Xuan Liu: ArPat: Accurate RFID reader positioning with mere boundary tags. ICPADS 2014: 880-885. (CCF C类，通信作者)
+[17].	Jianxin Wang, Zhixiong Liu, Shigeng Zhang, Xi Zhang: Defending collaborative false data injection attacks in wireless sensor networks. Information Sciences (INS) 254: 39-53 (2014). (CCF B类)
+[18].	Xuan Liu, Bin Xiao, Kai Bu, Shigeng Zhang: LOCK: A fast and flexible tag scanning mechanism with handheld readers. IWQoS 2014: 360-369. (CCF B类)
+[19].	Zhuofan Liao, Jianxin Wang, Shigeng Zhang*, Xi Zhang: A Deterministic Sensor Placement Scheme for Full Coverage and Connectivity without Boundary Effect inWireless Sensor Networks. Ad Hoc & Sensor Wireless Networks 19(3-4): 327-351 (2013) (通信作者)
+[20].	 Yingpei Zeng, Jiannong Cao, Jue Hong, Shigeng Zhang*, Li Xie: Secure localization and location verification in wireless sensor networks: a survey. The Journal of Supercomputing 64(3): 685-701 (2013) (CCF C类，通信作者)
+[21].	Shigeng Zhang, Xiaoxian He, Hong Song, Daqiang Zhang: Time Efficient Tag Searching in Multiple Reader RFID Systems. GreenCom/iThings/CPScom 2013: 481-488.(第一作者)
+[22].	Kehua Guo, Shigeng Zhang: A Semantic Medical Multimedia Retrieval Approach Using Ontology Information Hiding. Comp. Math. Methods in Medicine 2013: 407917:1-407917:7 (2013). (通信作者)
+[23].	Shigeng Zhang, Jiannong Cao, Yingpei Zeng, Zhuo Li, Lijun Chen, Daoxu Chen: On accuracy of region based localization algorithms for wireless sensor networks. Computer Communications 33(12): 1391-1403 (2010) (CCF C类，第一作者)
+[24].	Shigeng Zhang, Jiannong Cao, Lijun Chen, Daoxu Chen: On Accuracy of Region-based Localization Algorithms for Wireless Sensor Networks. MASS 2009: 30-39. (CCF C类，第一作者)
+[25].	Shigeng Zhang, Jiannong Cao, Lijun Chen, Daoxu Chen: Locating Nodes in Mobile Sensor Networks More Accurately and Faster. SECON 2008: 37-45. (CCF B类，第一作者)
+[26].	 肖亚龙，张士庚*，王建新. 一种基于多维标度和区域细化的无线室内定位方法. 计算机学报，已录用。（通信作者）
+[27].	张士庚,刘光亮,刘璇,王建新.大规模 RFID 系统中一种能量有效的丢失标签快速检测算法, 计算机学报 37 (2), 434-444, 2014. （第一作者）
+[28].	陈零，王建新，张士庚*，奎晓燕. 无线传感器网络中基于树的能量高效分布式精确数据收集算法, 电子学报, 41(9), 1738-1743. （通信作者）
+[29].	张士庚,曾英佩,陈力军,陈道蓄,谢立,移动传感器网络中定位算法的性能评测.软件学报,22 (7):597-1611, 2011. （第一作者）
+[30].	张士庚，王建新，肖亚龙，王伟平：一种减少指纹数据采集工作量的室内定位方法.专利申请号：2014102380772. 授权日期：2017.2.10.
+[31].	张士庚，严淑平，肖亚龙，王建新，一种基于边界标签的PFID读写器定位方法.专利申请号：201410756236.8. 授权日期：2017.2.22。
+
+------
+>>>unfinishedProject
+[1]基于物理层信息的被动式无线感知理论与方法研究，湖南省自然科学基金，2017-2020， 5万，主持。
+[2]基于IPv6的RFID网络访问方法研究，2017.3-2019.2，赛尔网络下一代互联网技术创新项目，NGII20160309，15万，主持。
+[3]面向动态复杂环境的RFID高效监测技术研究，2017.1-2019.12，国家自然科学基金青年项目，F020809/61602167, 20万， 合作主持。
+[4]移动互联网中继部署建模与算法研究，2015.1-2017.12，国家自然科学基金青年项目，F020809/61402056，26万，合作主持。
+[5]面向无线网络优化的高效实用网络编码技术研究, 2012.1-2015.12, 国家自然科学基金面上项目，F020809/61173169, 56万， 参与。
+[6]大规模RFID系统中的标签动态监控方法研究， 2012.9-2014.8，计算机软件新技术国家重点实验室（南京大学）开放课题，KFKT2012B10，2万，主持。
+[7]各向异性无线传感器网络中定位算法及其误差分析研究, 2011-2012, 中国博士后科学基金面上资助（二等），2011M500981, 3万， 主持。
+[8]精确鲁棒的无线室内定位技术研究，2012.9-2013.12，中国博士后科学基金特别资助，2012T50706，15万，主持。
+[9]无线传感器网络中面向弱测距的定位理论与关键技术, 2012.1-2014.12, 国家自然科学基金青年项目，F020809/61103203, 22万，主持。
+------
+>>>teachWork
+[1]省级教改项目主持人《面向互联网+的自顶向下计算机网络课程建设与改革研究》
+[2]中南大学 优秀本科毕业设计论文 指导老师
+[3]中南大学优秀毕业生 指导老师
+[4]湖南省优秀毕业生 指导老师
+------

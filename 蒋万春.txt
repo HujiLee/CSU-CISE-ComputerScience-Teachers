@@ -1,0 +1,62 @@
+>>>name
+蒋万春
+------
+>>>departmen
+8
+------
+>>>sex
+男
+------
+>>>position
+其他
+------
+>>>birthday
+1987-12-20
+------
+>>>email
+jiangwc@csu.edu.cn
+------
+>>>brief
+蒋万春，1987年生，中南大学信息科学与工程学院计算机科学与技术系，2+6讲师。2009年于清华大学计算机科学与技术系获学士学位、推荐直博，2014年于清华大学计算机科学与技术系获博士学位、清华大学优秀博士论文奖，2013年2月至2013年8月在UCLA计算机系进行访问学习。毕业后进入中南大学工作，入选中南大学2015年第二批升华猎英计划。在IEEE/ACM Trans. on Networking, IEEE Trans. on Computers, INFOCOM等高水平期刊和会议上发表论文多篇，获国家自然科学基金青年基金资助，湖南省重点研发计划??应用基础研究重点项目资助，博士后科学基金第58批面上项目资助，博士后科学基金第9批特别资助。
+
+主要研究云计算与大数据系统的性能优化，具体研究方向包括数据中心网络、以太网、拥塞控制、控制理论在计算机网络中的应用等。
+
+长期招聘有志于科研的硕士研究生或者客座学生，欢迎中南大学优秀大三、大四本科生以及各地具有强烈上进心的本科生加入课题组。
+
+------
+>>>researchfield
+云计算与大数据平台的性能优化，计算机网络拥塞控制，以太网
+------
+>>>reward
+国家自然科学基金青年基金项目，61502539，“数据中心以太网拥塞控制”，2016/01-2018/12，24.8万元，主持。
+湖南省重点研发计划??应用基础研究重点项目，2016JC2009，“云数据中心性能监控及优化关键技术研究”，2017/01-2019/12，20万，主持。
+中国博士后科学基金第58批面上资助，2015M582344，“数据中心中链路层拥塞控制研究”，2016/01-2017/5，5万元，主持。
+中国博士后科学基金第9批特别资助(2016T90761)，“数据中心网络拥塞控制研究”，2016/4-2017/5，15万，主持。
+国家自然科学基金面上项目(61572530)，“数据中心网络中延时敏感的传输控制机制研究”，2016/01-2019/12，参与。
+中南大学升华猎英计划，2016/4-2021/4，50万，主持
+
+------
+>>>completeProject
+参与973项目“未来互联网高效路由与智能传输机理”、“异构接入的非连接网络实时服务质量研究”和项目“数据中心以太网中端到端的拥塞管理技术研究”等
+------
+>>>remarkablePaper
+[1] Chan Ruan, Jianxin Wang and Wanchun Jiang, 'FSQCN: Fast and Simple Quantized Congestion Notification in Data Center Ethernet,' ICDCS poster, June. 2016, pp. 739-740, Nara, Japan, 2016. (CCF B类会议)
+[2] Danfeng Shan, Wanchun Jiang, Fengyuan Ren, “Absorbing Micro-burst Traffic by Enhancing Dynamic Threshold Policy of Data Center Switches”, Proceedings of the 34th Annual IEEE International Conference on Computer Communications, IEEE INFOCOM 2015, Regular Paper. (CCF A类会议)
+[3] Wanchun Jiang, Fengyuan Ren, Ran Shu and Chuang Lin, “Sliding Mode Congestion Control for Data Center Ethernet Networks”, Accepted by the IEEE Transactions on Computers (IEEE ToC), Volume:64, Issue:9, Aug. 2015, Pages 2675 ? 2690, Regular Paper. (CCF A类期刊, IF: 1.659/2015)
+[4] Wanchun Jiang, Fengyuan Ren and Chuang Lin, “Phase Plane Analysis of Quantized Congestion Notification for Data Center Ethernet” Accepted by the IEEE/ACM Transactions on Networking (IEEE/ACM ToN), Volume:23, Issue:1, Feb. 2015, Pages 1 -14,  Regular Paper. (CCF A类期刊, IF 1.811/2015, 2015.2.12)
+[5] Wanchun Jiang, Fengyuan Ren, Chuang Lin, Yongwei Wu and Ivan Stojmenovic, “Analysis of Backward Congestion Notification with Delay for Enhanced Ethernet Networks”, Accepted by the IEEE Transactions on Computers (IEEE ToC), Volume:63, Issue:11, Nov. 2014, Pages 2674-2684, SCI: 000343887700004, Regular Paper. (CCF A类期刊，IF: 1.473/2014)
+[6] Jinli Meng, Fengyuan Ren, Wanchun Jiang and Chuang Lin, 'Modeling and Understanding Burst Transmission Algorithm for Energy Efficient Ethernet', Proceedings of the 21th IEEE International Workshop on Quality of Service, IEEE IWQoS 2013:173-182, Regular Paper, EI:20133316618312.  (CCF B类会议，录稿率28%)
+[7] Wanchun Jiang, Fengyuan Ren, Ran Shu and Chuang Lin, “Sliding Mode Congestion Control for Data Center Ethernet Networks”, Proceedings of the 31st Annual IEEE International Conference on Computer Communications, IEEE INFOCOM 2012:1404-1412, Regular Paper, EI:20122315083191. (CCF A类会议，录稿率:18%)
+[8] Wanchun Jiang, Fengyuan Ren, Chuang Lin and Ivan Stojmenovic, “Analysis of Backward Congestion Notification with Delay for Enhanced Ethernet Networks”, Proceedings of the 31st Annual IEEE International Conference on Computer Communications, IEEE INFOCOM 2012:2961-2965, Mini-Conference, EI: 20122315083424. (CCF A类会议, 录稿率:26%)
+[9] Fengyuan Ren and Wanchun Jiang, “Phase Plane Analysis of Congestion Control in Data Center Ethernet Networks”, Proceedings of the 30th International Conference on Distributed Computing Systems, ICDCS 2010:20-29, Regular Paper, EI: 20103413186688. (CCF B类会议，录稿率:14.4%)
+------
+>>>unfinishedProject
+NoSQL数据库系统性能优化
+Hbase、Cassandra等NoSQL数据库由于在扩展性、可靠性等多方面的性能优势，在云计算与大数据系统中发挥着至关重要的作用。然而目前NoSQL数据库系统普遍使用默认参数、副本数目及选择策略，无法达到最优的性能。因此，我们主要关注如何改善系统的参数自动化配置，以及副本的部署和选择策略，优化NoSQL数据库系统性能。
+
+数据中心网络突发流量管理和传输协议优化
+在云计算系统中，当前的研究热点是如何降低延时，提高对用户的响应速度。随着网络带宽的增大，SSD及内存计算等方式对于IO的改善，网络协议栈的高CPU消耗和大处理延时的问题凸显了出来，基于RMDA的流量传输方式成为了当前的热门选项。相应地，如何管理基于RMDA的突发流量，并在此环境下优化传输协议，在不丢包的前提下尽可能降低传输延时、提高传输效率成为我们的关注点。
+------
+>>>teachWork
+中南大学2+6讲师，暂时不承担教学任务
+------

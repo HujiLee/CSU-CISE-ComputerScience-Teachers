@@ -1,0 +1,86 @@
+>>>name
+王斌
+------
+>>>departmen
+8
+------
+>>>sex
+男
+------
+>>>position
+其他
+------
+>>>birthday
+1973-09-08
+------
+>>>email
+wb_csut@mail.csu.edu.cn
+------
+>>>brief
+王斌，男，1973年9月生，博士，中南大学信息科学与工程学院教授，博士生导师。入选2006年度教育部“计算机优化算法及其应用技术研究”创新团队。2016年湖南省电子政务规划专家组专家、2016年国家安全监管总局高危行业安全物联网技术创新中心专家咨询委员会委员、2015-2017年湖南省安监局安全监管平台规划组专家、2009年湖南移动SOA项目落地规划专家。作为项目第一负责人主持（含已结题）国家自然科学基金1项（支持分布式自适应系统的中间件关键技术研究）、湖南省自然科学基金1项，主持大型横向科研课题30多项。获湖南省科技进步奖二等奖1次（基于构件服务的虚拟实验平台）、获得长沙市科技进步奖1次、获得中冶集团科技进步奖1次，获得湖南省科学技术成果鉴定项目2项。
+------
+>>>photo
+/SISE/Web/TAB_TeacherInfo/UpLoadFiles/20170522152908203199.JPG
+------
+>>>researchfield
+软件工程、云计算及计算智能、工业安全管控平台、移动物联网应用
+------
+>>>reward
+[1]2006年教育部“计算机优化算法及其应用技术研究”创新团队主要成员。
+[2]湖南省科技成果鉴定“中冶长天烧结综合控制专家系统 ([2008]第055号，国际领先，7/10)”。
+[3]湖南省科技成果鉴定 “孝义铝矿安全标准化系统与信息化平台([2008]第088号，国际先进，3/20)”。
+[4]湖南省科技进步奖二等奖“基于服务的虚拟实验平台”(完成人：4/9)。
+------
+>>>completeProject
+[1]“中冶长天烧结综合控制专家系统之数据分析及决策支持系统开发研究”(2008-2008)。
+[2]“孝义铝矿安全标准化系统与信息化平台”&nbsp;(2007-2008)。&nbsp;
+[3]湖南省自然科学基金：“方面化构件模型及其组装和组装体系结构评价研究”(2005-2007)。
+[4]育部重点课题：“基于Agent技术的程序挖掘理论与技术研究”，(2000-2002)。
+
+------
+>>>remarkablePaper
+[1]ZEJUN SUN(孙泽军), BIN WANG（王斌）, JINFANG SHENG（盛津芳）, YIXIANG HU（胡义香）, YIHAN WANG（王?涵）,AND JUNMING SHAO（邵军明）.Identifying Influential Nodes in Complex networks based on weighted formal concept analysis.IEEE Access, 2017, 5: 3777-3789. (SCI)
+[2]王斌，余佳齐，李伟民，朱聪，盛津芳，SPICE在透明桌面服务机制中的应用及优化研究，计算机科学，2015，42（S1）：321-324+348。(CSCD)
+[3]王斌，吴太文，胡培培，软件缺陷分类和分析研究，计算机科学，2013，40（9）。(CSCD)
+[4]王斌，邹雪梅，盛津芳，井下火灾中逃生人员健康度评价模型，计算机应用，2013，33（9）：2653-2657。(CSCD)
+[5]王斌、张迅，盛津芳，陈新，史秀志，计算机工程与应用，优化的GEP算法在爆破振动预测中的应用，2015，11。(CSCD)
+[6]Weimin Li(李伟民), Bin Wang（王斌）,Jianbo Zou(邹剑波) and Jinfang Sheng（盛津芳）.A collaborative filtering recommendation method based on TagIEA expert degree model,International Journal of Computational Science and Engineering,2016(EI)
+[7]Weimin Li(李伟民), Bin Wang（王斌）,Jiaqi Yu（余佳齐），Chong Zhu（朱?），Sinuo Xiao and Jinfang Sheng, The optimization of Transparent-Desktop service mechanism based on SPICE,2016,DOI:10.1002/cpe.3858(SCI)
+[8]盛津芳，董科、李龙、朱聪，余佳齐，王斌，张尧学，基于Web的学生反馈系统的构建及在高校教学中的实践分析，电化教育研究，2015，（01）：48-54。(CSCD)
+[9]盛津芳，胡培培，王斌，反模式检测研究综述，计算机应用研究，2013，（12）：3525-3528。(CSCD)
+[10]Wang Bin（王斌） , Dan Yin(尹旦),  Taiwen Wu(吴太文),  Jinfang Sheng（盛津芳）.  Plug-in  Based  Integrated  Development   Platform For Industrial Control System P-IDP4ICS, International Joint Conference of IEEE TrustCom-11/IEEE ICESS-11/FCST-11,Changsha, China, 2011. （EI Accession number: 20120514721030）
+[11]WANG Bin（王斌）,Gao Chao（高超）.Automatic Summarization Method for Chinese Document based on Comprehensive Background Concept Lattice, Journal of Convergence Information Technology,vol.6,No.6, p390-399, 2011. （EI Accession number: 20112814133812）
+[12]WANG Bin（王斌）,SHENG Jinfang（盛津芳）,DING Jian（丁建）. “DCAM: A Distributed  Aspectual  Middleware”,  International  Journal  of  Digital Content Technology and its Applications, Vol.4,No.8,p65-78,2010. （EI Accession number:  20104913468559） 
+[13]SHI Xiuzhi（史秀志）,  WANG Bin（王斌）,SHENG Jinfang（盛津芳）,ZHU Wei. “Holographic view language HVL4CAM for aspectual middleware platform”, International  Journal  of  Digital  Content  Technology  and  its Applications,Vol.4,No.  8,pp43-54,2010.  (EI  Accession  number:  20104913468557)
+[14]Wang Bin（王斌）, and Sheng Jinfang（盛津芳）, “Extending FCD Process to Support COTS Selection,”Proceedings of the 2008 International Conference on Computer Science and Software Engineering (CSSE 2008), Wuhan, China, December 2008. （EI Accession number:  20102312978810） 
+[15]Wang Bin（王斌）, Wen Chunyan(朱春华), and Zhu Wei（朱薇）, “A Wright-ADL for Aspectual  Component  Composition  Platform,”  Proceedings  of  the  2008 International Symposium on Computer Science and Computational Technology (ISCSCT 2008)，Shanghai, China, December 2008.  (ISTP&EI Accession number: 20101212787453) 
+[16]WANG Bin（王斌）, DING Jian(丁建), and  SHENG Jinfang（盛津芳）,“Research on Model of Dual Core Aspectual Middleware & Dynamic Weaving Technology” ,Proceedings  of  the  9th  International  Conference  for  Young  Computer Scientists (ICYCS 2008),Zhangjiajie,China,November 2008. (EI Accession number: 20090411874995)
+[17]WANG Bin（王斌）,Wei Zhu（朱薇）, Jinfang Sheng（盛津芳）, “Holographic view language HVL4DCAM for aspectual middleware platform,” Proceedings of 2010 2nd International Conference on Computer Engineering and Technology(ICCET2010),Chengdu, China,April16-18,2010.(EI Accession number: 20104313316668 )
+[18]WANG Bin（王斌）,Chunhua Zhu(朱春华), Jinfang Sheng（盛津芳）, “MDA-Based Automated Generation Method of Test Cases and Supporting Framework,” Proceedings of 2010 2nd International Conference on Computer Engineering and Technology(ICCET2010), Chengdu,China, April16-18,2010.(EI Accession number: 20104313316669 )
+[19]WANG Bin（王斌）, ZHU Chunhua(朱春华), and SHENG Jinfang（盛津芳）, “A Formal Description Method for Aspect-oriented Statechart based on CSP,”Proceedings of the 2008 International Symposium on Computer Science and Computational Technology (ISCSCT 2008)，Shanghai, China,December 2008. (ISTP&EI Accession number: 20101212787537) 
+[20]WANG Bin（王斌）, DING Piao(丁飘), and SHENG Jinfang（盛津芳）,“P2P Anti-worm: Modeling and Analysis of a New Worm Counter-measurement Strategy,”Proceedings of the 9th International Conference for Young Computer Scientists (ICYCS 2008),Zhangjiajie, China, November 2008. (EI Accession number: 20090411875078)
+[21]WANG Bin（王斌）, YANG Bin(杨斌), and SHENG Jinfang（盛津芳）, “An Improved Neural Network Algorithm and its Application in Sinter Cost,” Proceedings of the International Workshop on Knowledge Discovery and Data Mining (WKDD 2009), Moscow, Russia,January 2009. (ISTP&EI Accession number:  20092412118549)
+[22]WANG Bin（王斌）, FANG Yan(方艳), and SHENG Jinfang（盛津芳）, “BTP Prediction Model Based on ANN and Regression Analysis,”Proceedings of the International Workshop on Knowledge Discovery and Data Mining (WKDD 2009), Moscow, Russia, January 2009. (ISTP&EI Accession number:  20092412118548)
+[23]WANG Bin（王斌）, ZHANG Yao-xue(张尧学), and CHEN Song-qiao（陈松乔）, “Semantic Network based Component Organization model for Program mining”， Journal of Central South University of Technology, 10(4): 369-374, 2003.(SCI& EI)
+[24]王斌，盛津芳. 面向方面软件开发的理论、技术与实践，中国电力出版社[北京]，2011.6  ，该教材为：十一五规划教材。
+------
+>>>unfinishedProject
+具体研究经历如下：
+1）2012年至2017年主持“基于物联网的高校教学互动系统”，“基于移动互联网的中小学教学反馈系统”以及“基于移动互联网的幼儿园家校互动系统”。研发基于移动互联网的Android App 已经苹果App以及消息推送系统，该系统已经部署到阿里云服务器上。到目前为止，实验室已经完成了从幼儿园、中小学以及高校的全系列教育产品的研发工作；
+2）2015年到2017年主持 “CAP1400核岛设备RCM可靠性维修策略管理平台”以及 “环形燃料计算及可视化软件研发”和“燃料并行计算及3D可视化研究”，该系列项目的研究与开发将研究领域拓展到大数据与科学计算领域；
+3）2015年至今作为负责人主持“面向钢铁行业的视拓信息云平台”，项目组在安全、工作流、负载均衡、数据库集群、IT运维等方面展开工程实践，构建面向钢铁行业的营销云平台，支持10万级用户并发访问；
+4）2014年至今作为负责人主持“基于移动互联网的金属矿山安全标准化运行管理系统”，该项目在实验室的早期科研成果的基础上，基于消息推送平台、工作流系统、移动APP研发面向矿山安全生产和管理的执行系统。该系统可以推广到面向制造业以及安全生产相关其他行业领域；
+5）2013至2016年作为负责人之一主持科技部国际合作项目“基于透明计算的智能移动终端网络化操作系统”。研发基于云计算的透明桌面服务平台以及基于嵌入式虚拟化的MetaOS系统，在该项目过程中，提出面向轻量级物联网的新型透明计算架构，其具备安全性、轻量性以及设备体积小等特点；
+6）2011年主持课题“中金岭南凡口铅锌矿人员定位及安全监控系统的研究与开发”，2012年主持课题“凡口铅锌矿井下安全避险六大系统人员定位、监测监控和通讯联络系统开发建设”。2012年主持课题“广西高峰矿业有限责任公司安全避险“六大系统”主干网研制开发”、“广西高峰矿业有限责任公司安全监测监控系统研制开发”、“广西高峰矿业有限责任公司人员定位系统研制开发”和“广西高峰人员定位、监测监控与综合调度指挥系统信息平台的研制与开发”。该项目是实验室在工业领域完成的最大的两个项目（总投资6000万），实施周期是3年，维护期是3年，该项目考验了团队在恶劣作业现场进行项目管理、软件开发、设备调试以及后续维护的工程管理和技术能力；
+7）2004年至2009年主持规划拓维在广东联通的管理支持系统MSS平台一期、二期及三期建设，主持规划湖南移动统一信息平台的规划、建设及培训工作，主持湖南移动经营分析系统规划以及湖南移动SOA规划及落地研究；
+8）2007年至2009年在“中冶长天国际工程有限公司”进行博士后研究工作，主持研发了“中冶长天烧结综合控制专家系统”，填补国内在烧结二级控制领域的国外垄断局面，目前推广到30多家国内外大型烧结厂，包括：韶关钢铁公司360平米烧结、新余钢铁公司360平米烧结、攀枝花钢铁公司360平米烧结、攀钢西昌钢铁铁公司360平米烧结、攀钢成都钢铁铁公司360平米烧结、南京钢铁公司180平米烧结、梅山钢铁公司450平米烧结、包头钢铁公司500平米烧结、巴西ArcelorMittal Monlevade 198平米烧结、台塑越南河静 450平米烧结等。该课题成果获得中冶集团科技进步一等奖以及长沙市科技进步一等奖。“中冶长天烧结综合控制专家系统”目前的销售额已经超过了1亿人民币。于2009年主持烧结综合控制专家系统的后续课题“基于MAS的中冶长天烧结综合管理控制系统研究”，该系统基于推理引擎，完成烧结机的实时故障诊断和在线作业指导；
+9）2005-2007年主持湖南省自然科学基金“构件模型及其组装和组装体系结构评价研究”，2010-2012年主持国家自然科学基金项目“支持分布式自适应系统的中间件关键技术研究”；
+10）2007年主持研发了“金属矿山安全标准化信息平台”，该软件为国家安监局《金属非金属矿山安全标准化管理规范》的配套软件，目前已经在国内多家矿山推广，包括：中金岭南、中钢集团、中国铝业、华锡集团等，取得了良好的社会效益。于2008年主持课题“孝义铝矿安全标准化系统与信息化平台的开发研究”；2010年主持课题“中钢集团山东矿业有限公司矿山安全标准化系统创建与信息化平台开发”。2011年主持课题“华锡集团铜坑矿安全标准化信息平台的研究与开发”。
+
+------
+>>>teachWork
+[1]2010起年主讲《软件工程》，《现代软件工程》（研究生课程）
+[2]2013起年开始 主讲《物联网平台与标准》，《物联网技术》（研究生课程）
+[3]曾经主讲《分布式计算机系统》、《设计模式》、《软件体系结构》、《计算机病毒与防治》、《面向对象程序设计语言》。
+
+------

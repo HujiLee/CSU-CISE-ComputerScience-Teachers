@@ -1,0 +1,115 @@
+>>>name
+周芳芳
+------
+>>>departmen
+8
+------
+>>>sex
+女
+------
+>>>position
+系副主任
+------
+>>>birthday
+1980-04-13
+------
+>>>email
+zff@csu.edu.cn
+------
+>>>brief
+周芳芳，女，工学博士，教授，硕士生导师。分别于2002年、2007年在中南大学获得工学学士和工学博士学位，2005年-2006年清华大学智能技术与系统国家重点实验室访问学生，2009年-2010年UC Davis(美国加利福尼亚大学Davis分校)博士后。2011年评为副教授，2012年创建中南大学可视化研究小组，2013年入选中南大学“531”人才，2016年被评为教授，现为中南大学计算机科学与技术系副系主任。本人长期从事可视化与可视分析、大数据技术、机器学习、数据挖掘和虚拟现实等方向的研究与应用。近五年来，主持各类科研项目8项，以第一作者或通讯作者在国内外知名刊物和会议上发表论文20余篇，申请国家发明专利7项，获得软件著作权9项，出版教材1本，获得国际会议最佳论文荣誉1次，带领研究生参加国际可视分析挑战赛获一等奖4项。
+
+中南大学可视化与可视分析研究小组的研究方向包括可视化与可视分析、机器学习、数据挖掘、大数据技术、人机交互等。自2011年11月成立以来，本小组的硕士研究生有7人次获得国家一等奖学金，2人次校级奖学金，4人次获研究生自由探索项目立项支持，组队参加国际可视分析竞赛获得4次一等奖，2人次硕士毕业后继续在国内攻读博士学位，2人次赴美攻读可视化方向的博士学位并获得全额奖学金资助。本小组为百度、阿里巴巴、奇虎360、华为等著名IT公司输送了一批可视化、数据挖掘与大数据分析的专业人才，仅2015-2016年就有8人次获得微软、百度、奇虎360、阿里巴巴和网易的实习与正式工作机会。
+
+我们小组每年招收4-5名硕士研究生，可接收计算机、软件工程、通信、信息安全、测控、自动化等相关专业研究生，欢迎热爱数据可视化、数据挖掘和大数据分析的研究生推免和报考本研究小组。
+
+我们也欢迎计算机、软件工程、通信、信息安全、物联网、自动化、测控、数字媒体、应用数学、数理统计等专业的本科生与我们联系，尽早加入实验室，和老师与研究生一起，积极参与论文工作和项目研发，积极争取与权威专家的对话机会，充分锻炼个人综合素质，为将来读研、出国、工作提升个人竞争力。
+
+新浪微博：@中南大学可视化小组
+优酷主页：http://i.youku.com/viscsu
+------
+>>>photo
+/SISE/Web/TAB_TeacherInfo/UpLoadFiles/2012122822003125.jpg
+------
+>>>homeaddress
+个人主页：http://faculty.csu.edu.cn/zff   丨  新浪微博：@中南大学可视化小组   丨   部分项目与研究成果演示：http://i.youku.com/viscsu
+------
+>>>researchfield
+可视化与可视分析、数据挖掘、机器学习、大数据、虚拟现实与图形学
+------
+>>>reward
+(1) The VAST Challenge 2015 in IEEE VIS 2015, Award for Strong Application of Advanced Analytic Techniques 
+(2) The VAST Challenge 2014 in IEEE VIS 2014, Award: Outstanding Visualization and Analysis
+(3) The VAST Challenge 2014 in IEEE VIS 2014, Award: Outstanding Results Presentation Supported by Visualizations
+(4) The VAST Challenge 2013 in IEEE VIS 2013, Award:Outstanding comprehensive solution
+(5) 2014年获中南大学西南铝教育奖优秀教师奖
+(6) The 5th International Symposium on Cyberspace Safety and Security (CSS 2013), Best Paper Award, 2013. （2013年国际网络安全研讨会，最佳论文奖）
+(7) 2007年获中南大学信息科学与工程学院首届青年教师“三十佳”教学竞赛的“十佳讲课”奖；
+(8) 2007年获中南大学信息科学与工程学院“最喜爱老师”奖；
+
+另外，近三年，我们组研究生有7人次获得国家一等奖学金，2人次校级奖学金，4人次获得校级自由探索项目支持
+------
+>>>completeProject
+(1)2008.7-2010.7&nbsp;企业合作项目“工程机械设备虚拟训练系统”&nbsp;3万元，第一负责人；
+(2)2005.10&nbsp;国家863应用示范项目“计算机联网环境下信息系统的审计”，为项目主要参与人；
+(3)2004.7&nbsp;国家863应用示范项目“计算机联网审计系统子项目：数据采集及处理之组网模式研究课题研究（外协）”，为项目主要参与人；
+(4)2003.9&nbsp;国家自然科学基金资助项目(69975003)“受限柔性机器人臂的迭代学习控制研究”，为项目主要参与人；
+------
+>>>remarkablePaper
+【近三年代表性论文（按时间倒序排列）】
+[1].	Yang Shi, Ying Zhao, Fangfang Zhou, Yaoxue Zhang. A Novel Radial Visualization of Intrusion Detection Alerts. Computer Graphics and Applications. 2017. （SCI期刊，中南大学国际权威期刊）
+[2].	Yang Shi, Yang Wang, Ye Qi, John Chen, Xiaoyao Xu, Kwan-Liu Ma. IdeaWall: Improving Creative Collaboration through Combinatorial Visual Stimuli. ACM Conference on Computer-Supported Cooperative Work, 2017.2 (CSCW 2017)（计算机学会推荐的A类会议）
+[3].	周芳芳,高飞,刘勇刚,梁兴,赵颖.基于密度-距离图的交互式体数据分类方法.软件学报,2016,27(5):1061-1073.（国内权威期刊）
+[4].	周芳芳,李俊材,黄伟,王俊?,赵颖.基于维度扩展的Radviz可视化聚类分析方法.软件学报,2016,27(5):1127-1139.(国内权威期刊）
+[5].	Fangfang Zhou, Juncai Li, Wei Huang, Ying Zhao, Xiaoru Yuan. Dimension Reconstruction for Visual Exploration of Subspace Clusters in High-dimensional Data. IEEE Pacific Visualization Symposium 2016, 2016.4.19-2016.4.23. (CCF推荐的C类会议)
+[6].	Fangfang Zhou, Wei Huang, Ying Zhao. ENTVis: Gaining a Deeper Insight into Entropy-based Network Traffic Anomaly Detection. Computer Graphics and Applications. 2015. （SCI期刊，中南大学国际权威期刊）
+[7].	Fangfang Zhou, Wei Huang, Juncai Li, Yezi Huang, Yang Shi, Ying Zhao. Extending Dimensions in Radviz Based on Mean Shift. IEEE Pacific Visualization Symposium, Notes. 2015. （计算机学会推荐的C类会议）
+[8].	Ronghua Shi, Mengjie Yang, Ying Zhao, Fangfang Zhou. A Matrix-based Visualization System for Network Traffic Forensic[J]. IEEE Systems Journal, 2015.（SCI期刊，JCR一区期刊）
+[9].	Zhi-fang Liao, Yong Li, Yanni Peng, Ying Zhao, Fang-fang Zhou. A Semantic Enhanced Trajectory Visual Analytics for Digital Forensic. Journal of Visualization. 2015. (SCI期刊)
+[10].	Zhao Ying, Liang Xing, Fan Xiaoping, Zhou Fangfang. MVSec：Multi-perspective and deductive visual analytics on heterogeneous network. Journal of Visualization.2014. (SCI期刊）
+[11].	赵颖, 樊晓平, 周芳芳, 汪飞, 张加万. 网络安全数据可视化综述[J]. 计算机辅助设计与图形学学报, 2014.
+[12].	Fangfang Zhou, Ronghua Shi, Ying Zhao. NetSecRadar: A visualization system for network security situational awareness[C]. In proceedings of the fifth International Symposium on Cyberspace Safety and Security (CSS 2013), 2013. (获得会议最佳论文奖)
+[13].	Ying Zhao, FangFang Zhou. IDSRadar: a real-time visualization framework for IDS alerts [J]. Science China Information Sciences, 2013. （SCI期刊）
+
+【国家发明专利】
+(1) 一种无线电信号数据的可视化方法，201610419842.X
+(2) 一种基于Radviz的模糊聚类结果可视化方法，201610341872.3
+(3) 一个基于维度重构的高维数据子空间聚类投影效果优化方法，201510504284.2
+(4) 一种基于公路监控设备的货车安全带系挂状态的检测方法 ，201410298811.4
+(5) 一种基于公路监控设备的轿车安全带系挂状态的检测方法 ，201410299725.5
+(6) 一种基于可视聚类对消费地点的混合推荐方法，201410478389.0
+(7) 基于可视化聚类的网络流量异常分析方法，201410745810.X
+
+【软件著作权】
+(1) 多视图合作的网络流量时序数据可视分析软件，2015.12
+(2) 基于密度-距离投影的交互式体数据可视化软件，2015.12
+(3) 多视图合作的动态网络可视分析软件，2015.12
+(4) 多视图合作的网络通信数据可视分析软件，2015.12
+(5) 高维数据子空间可视聚类软件，2015.12
+(6) 网络安全事件关联性可视分析软件，2014.7
+(7) 交互式三维数据分割及可视化软件，2014.7
+(8) 基于堆叠流图的网络安全可视分析软件，2014.3
+(9) 基于GPU的交互式三维数据可视化软件，2014.3
+------
+>>>unfinishedProject
+【目前承担的科研项目】
+[1].	国家级科研课题，国家自然科学基金面上项目，无线信号电磁频谱态势感知可视分析方法研究，项目编号：61672538，时间：2017-2020，项目负责人；
+[2].	企业合作项目，合作单位：北京工商大学，项目名称：面向食品安全数据的可视聚类分析方法研究，时间：2017-2019，项目负责人；
+[3].	企业合作项目，合作单位：百度，项目名称：网络舆情可视分析关键技术研究，时间：2016-2018，项目负责人；
+[4].	企业合作项目，合作单位：西南电子电信技术研究所，项目名称：无线电频谱监测数据可视化关键技术研究，时间：2014-2016，项目负责人；
+[5].	国家级科研课题，国家自然科学基金青年项目，面向网络安全态势感知的多层次可视分析方法研究，项目编号：61402540，时间：2015-2017。
+
+【已完成的科研项目】
+[1].	国家自然科学青年科学基金 “基于特征变形的体数据图示可视化方法研究”(61103108)，2012.1-2014.12，项目负责人；
+[2].	湖南省科技厅博士后专项 “基于大规模网络安全态势数据的交互可视感知分析技术研究”（2012RS4049），2012.01-2013.12，项目负责人；
+[3].	湖南省科技计划一般项目 “网络安全检测与可视分析技术研究”(2011GK3215)，2011.1-2012.12，项目负责人；
+[4].	中南大学青年教师助推专项项目（自然科学类）“虚拟手术中基于GPU的软组织Volume建模与形变关键技术研究”(721500158)，2010.9-2012.12, 项目负责人。
+------
+>>>teachWork
+【本科生课程】
+《可视化技术》《人机交互》《数据库原理》《信息论与编码》《面向对象程序设计》《计算机图形学》《数字图像处理》
+
+【研究生课程】
+《可视化技术与虚拟现实》
+
+------

@@ -1,0 +1,57 @@
+>>>name
+齐芳
+------
+>>>departmen
+8
+------
+>>>sex
+女
+------
+>>>position
+其他
+------
+>>>birthday
+1978-02-25
+------
+>>>email
+csqifang@126.com
+------
+>>>brief
+中南大学信息科学与工程学院副教授，可信计算研究所副所长， 2003年以来一直从事教学与科研工作。主讲了“计算机网络原理”，“计算机图形学”以及留学博士生的“Modern Computer Applications Technologies”等课程。主要研究方向包括网络与信息安全,通信网络。2007年获博士学位。2003年留校任教。2005年至2006年受聘于新加坡科技研究局担任研究助理(Research Assistant)。2008年至2009年受聘于香港城市大学担任高级研究员(Senior Research Fellow)。在国内外有影响的刊物与国际会议（如JoS、SCN、LNCS、软件学报、ICDCS2005、IEEE MASS-09，ICICS2005等）上发表研究文章20余篇，其中SCI收录5篇，EI收录10篇，主持与参与国家级、省级多项研究项目。
+------
+>>>photo
+/SISE/Web/TAB_TeacherInfo/UpLoadFiles/2009092620512500.jpg
+------
+>>>researchfield
+网络与信息安全,通信网络
+------
+>>>reward
+2011年主持国家自然科学基金一项
+1.国家自然科学基金，（61073037）,主要成员中排名第一（未结题）
+2.国家自然科学基金 , 主要成员中排名第二，(已结题）
+3.湖南省自然科学基金面上项目:QoS感知的SSL协议的研究及其优化（未结题）
+4.湖南省科技计划，（未结题）
+5.长沙市科技计划（未解题）
+6.湖南省科技计划重点项目，主要成员中排名第一（未结题）
+7. 国家自然科学基金重大研究计划
+8中南大学博士后基金一等资助（未结题)
+------
+>>>completeProject
+国家自然科学基金之重大研究计划项目：“可信网络计算环境中的融合信任模型及信任传递机制研究”（排名第三）
+国家高技术研究发展计划（863计划）专题课题：自组织网络中基于洞影子及分段策略的抗毁路由协议（排名第五）
+湖南省自然科学基金：“ QoS感知的SSL协议的研究及其优化”（主持）
+------
+>>>remarkablePaper
+共二十篇论文，第一作者论文其中Sci 6篇，EI 11篇
+1.SSL-Enabled Trusted Communication: Spoofing and Protecting the Non-Cautious Users, Security and communication networks, 2009,(SCI和EI检索)
+2.“User Requirements-aware Security Ranking in SSL Protocol,“ Journal of Supercomputing (Elsevier) (SCI&EI检索)
+3.Parameter optimization-based batching TLS protocol.软件学报(英文), 2007，国内计算机一级学报，EI检索
+------
+>>>unfinishedProject
+2011年主持国家自然科学基金一项。
+国家自然科学基金面上项目，项目名称“多人共享云计算服务环境中的安全问题研究”,项目编号61073037，起止时间是2011年1月至2013年12月, 除项目负责人外，主要成员中排名第一。项目经费30万元。
+国家自然科学基金国际合作交流项目之两个基地项目：“基于局部混合路由信息的可扩展及可靠的路由算法研究”（排名第二）	
+国家自然科学基金之重大研究计划项目：“可信网络计算环境中的融合信任模型及信任传递机制研究”（排名第三）
+湖南省科技计划（主持）
+长沙市科技计划（主持）
+------
